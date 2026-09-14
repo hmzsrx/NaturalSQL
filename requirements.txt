@@ -1,0 +1,7 @@
+alembic
+langchain
+langchain-groq
+langgraph
+psycopg[binary]
+python-dotenv
+sqlalchemy
